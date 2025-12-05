@@ -9,33 +9,6 @@ Sistema inteligente de transcripción y análisis de llamadas de emergencia para
 📊 Analíticas: Dashboard con métricas e historial de llamadas
 🇨🇴 Optimizado para Colombia: Detecta direcciones colombianas (Calle, Carrera, Avenida, etc.)
 
-🔑 Configuración
-Esta aplicación requiere dos API keys gratuitas:
-
-AssemblyAI: Para transcripción de audio
-
-Regístrate en: https://www.assemblyai.com/
-Plan gratuito: 5 horas/mes
-
-
-Groq: Para análisis con IA
-
-Regístrate en: https://console.groq.com/
-Plan gratuito con límite generoso
-
-
-
-Configurar Secrets en Hugging Face
-
-Ve a tu Space
-Click en Settings → Repository secrets
-Agrega estos secrets:
-
-ASSEMBLYAI_API_KEY: Tu clave de AssemblyAI
-GROQ_API_KEY: Tu clave de Groq
-
-
-
 🚀 Uso
 
 Cargar archivo de audio de emergencia (MP3, WAV, M4A, FLAC, OGG)
