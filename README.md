@@ -23,5 +23,7 @@ Groq/Llama 3.3 (Análisis IA)
 Folium (Mapas)
 GeoPy (Geocodificación)
 
+https://emergencia-wke32kx3humk42shjap8q6.streamlit.app/
+
 ⚠️ Disclaimer
 Esta es una aplicación de demostración. Para uso en producción en servicios de emergencia reales, se requieren certificaciones adicionales y cumplimiento de regulaciones.
